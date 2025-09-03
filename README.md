@@ -2,7 +2,7 @@
 # 📈 SnapStocks
 
 **SnapStocks** is a Streamlit-powered web application for finance and stock price prediction. It allows you to explore historical stock data and visualize trends using an intuitive interface. The application also includes a predictive analytics feature powered by machine learning models.
-Check out the live application: [Stockzyy](https://snapstocks.streamlit.app)
+Check out the live application: [SnapStocks](https://snapstocks.streamlit.app)
 
 ---
 
@@ -60,6 +60,7 @@ Open the local server (usually `http://localhost:8501`) and:
 ## 🤝 Contributing
 
 Contributions are welcome\! Please fork the repo and submit pull requests with improvements. Make sure to test new features locally and update documentation as needed.
+
 
 
 
